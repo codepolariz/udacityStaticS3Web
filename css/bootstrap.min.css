@@ -4589,7 +4589,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     }
 
 .navbar-light .navbar-brand {
-    color: rgba(0,0,0,.9)
+    color: #fff;
 }
 
     .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
